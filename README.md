@@ -47,7 +47,6 @@ A regression model was developed to predict Data Scientist salaries. The process
 ### 5. Model Deployment
 
 The final regression model was deployed for practical use. This involved:
-- Saving the trained model using serialization techniques (e.g., `pickle` or `joblib`).
 - Creating a user interface or API to allow users to input new data and obtain salary predictions.
 
 ## Requirements
@@ -55,7 +54,7 @@ The final regression model was deployed for practical use. This involved:
 To run the code in this repository, you will need:
 
 - Python 3.11
-- Required Python libraries (pandas, matplotlib, seaborn, nltk, wordcloud
+- Required Python libraries (pandas, matplotlib, seaborn, nltk, wordcloud)
 
 ## Acknowledgments
 
