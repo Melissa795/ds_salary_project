@@ -19,7 +19,7 @@ The dataset was collected by scraping Glassdoor for salary information related t
 
 ### 1. Data Collection
 
-The dataset is provided by [Ken Jee ]([http://example.com](https://github.com/PlayingNumbers) and available in his [repository](https://github.com/PlayingNumbers/ds_salary_proj)
+The dataset is provided by [Ken Jee ](https://github.com/PlayingNumbers) and available in his [repository](https://github.com/PlayingNumbers/ds_salary_proj)
 
 ### 2. Data Cleaning
 
