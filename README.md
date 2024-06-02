@@ -38,11 +38,11 @@ EDA was performed to uncover insights and patterns within the data. This include
 
 ### 4. Model Building
 
-A regression model was developed to predict Data Scientist salaries. The process involved:
-- Selecting relevant features for the model.
-- Splitting the data into training and test sets.
-- Training the model using algorithms such as Linear Regression, Decision Trees, or Random Forest.
-- Evaluating the model's performance using metrics like R-squared and Mean Absolute Error (MAE).
+Three different regression models were developed to predict Data Scientist salaries. The process involved:
+- Selecting relevant features for the model,
+- Splitting the data into training and test sets,
+- Training the models using algorithms such as Linear Regression, Lasso Regression and Random Forest,
+- Evaluating the model's performance using metrics like Mean Absolute Error (MAE).
 
 ### 5. Model Deployment
 
